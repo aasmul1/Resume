@@ -9,8 +9,11 @@ function App() {
   const [count, setCount] = useState(0);
 
   return (
-    <div className="flex flex-col min-h-screen bg-gray-400 p-4">
+
+    <div className="flex flex-col space-y-10 min-h-screen bg-gray-400 gap-4">
       {/* Container for Cards */}
+      <div className="flex flex-row space-x-8 p-3">
+        <CardMe />
       <div className="flex flex-col gap-4 flex-grow">
         <div className="flex justify-end">
           <Card />
@@ -19,6 +22,7 @@ function App() {
           <CardVerv />
         </div>
         
+      </div>
       </div>
       <Footer />
       
