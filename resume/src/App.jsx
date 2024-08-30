@@ -16,10 +16,10 @@ function App() {
         <CardMe />
       <div className="flex flex-col gap-4 flex-grow">
         <div className="flex justify-end">
-          <Card />
+          <CardVerv />
         </div>
         <div className="flex justify-end">
-          <CardVerv />
+          <Card />
         </div>
         
       </div>
