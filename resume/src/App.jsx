@@ -1,21 +1,29 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import { useState } from 'react';
+import './App.css';
 import Footer from './components/Footer';
+import Card from './components/Card';
+import CardVerv from './components/CardVerv';
+import CardMe from './components/CardMe'
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [count, setCount] = useState(0);
 
   return (
-    <div className="flex flex-col min-h-screen">
-      <header className="flex-grow">
-        <h1>Hello World</h1>
-        {/* Add some more content here if needed */}
-      </header>
+    <div className="flex flex-col min-h-screen bg-gray-400 p-4">
+      {/* Container for Cards */}
+      <div className="flex flex-col gap-4 flex-grow">
+        <div className="flex justify-end">
+          <Card />
+        </div>
+        <div className="flex justify-end">
+          <CardVerv />
+        </div>
+        
+      </div>
       <Footer />
+      
     </div>
   );
 }
 
-export default App
+export default App;
