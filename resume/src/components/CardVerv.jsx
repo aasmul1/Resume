@@ -9,45 +9,42 @@ const CardVerv = () => {
             </div>
             <div className="flex flex-col space-y-1">
                 <h1 className="text-base font-bold">
-                    Customer Advisor | Visma Amili AS
+                    Project Lead Start FinTech | Start NTNU
                 </h1>
                 <div className="flex flex-row space-x-3">
                     <svg xmlns="http://www.w3.org/2000/svg" height="20px" viewBox="0 0 448 512"><path fill="#60A5FA" d="M128 0c17.7 0 32 14.3 32 32l0 32 128 0 0-32c0-17.7 14.3-32 32-32s32 14.3 32 32l0 32 48 0c26.5 0 48 21.5 48 48l0 48L0 160l0-48C0 85.5 21.5 64 48 64l48 0 0-32c0-17.7 14.3-32 32-32zM0 192l448 0 0 272c0 26.5-21.5 48-48 48L48 512c-26.5 0-48-21.5-48-48L0 192zm64 80l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0c-8.8 0-16 7.2-16 16zm128 0l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0c-8.8 0-16 7.2-16 16zm144-16c-8.8 0-16 7.2-16 16l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0zM64 400l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0c-8.8 0-16 7.2-16 16zm144-16c-8.8 0-16 7.2-16 16l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0zm112 16l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0c-8.8 0-16 7.2-16 16z"/></svg>                    
                     <h3 className="text-blue-400">
-                        09/2023 - ongoing
+                        02/2023 - 02/2024
                     </h3>
                 </div>
                 <p>
-                As a customer advisor and caseworker, I assist customers in obtaining the information and help they need. This is done both in writing and over the phone.
-                </p>
+                As the project manager for the FinTech project group, I was responsible for the execution of the project related to innovation in financial technology. This involved delegating tasks to the project team and overseeing the overall financial management.                </p>
             </div>
             <div className="flex flex-col space-y-1">
                 <h1 className="text-base font-bold">
-                    Waiter | Britannia Hotel
+                    Projevt Memeber StartIT| Start NTNU
                 </h1>
                 <div className="flex flex-row space-x-3">
                     <svg xmlns="http://www.w3.org/2000/svg" height="20px" viewBox="0 0 448 512"><path fill="#60A5FA" d="M128 0c17.7 0 32 14.3 32 32l0 32 128 0 0-32c0-17.7 14.3-32 32-32s32 14.3 32 32l0 32 48 0c26.5 0 48 21.5 48 48l0 48L0 160l0-48C0 85.5 21.5 64 48 64l48 0 0-32c0-17.7 14.3-32 32-32zM0 192l448 0 0 272c0 26.5-21.5 48-48 48L48 512c-26.5 0-48-21.5-48-48L0 192zm64 80l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0c-8.8 0-16 7.2-16 16zm128 0l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0c-8.8 0-16 7.2-16 16zm144-16c-8.8 0-16 7.2-16 16l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0zM64 400l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0c-8.8 0-16 7.2-16 16zm144-16c-8.8 0-16 7.2-16 16l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0zm112 16l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0c-8.8 0-16 7.2-16 16z"/></svg>                    
                     <h3 className="text-blue-400">
-                        09/2022 - 09/2023
+                        08/2022 - 03/2023
                     </h3>
                 </div>
                 <p>
-                    Worked primarily to provide guests at one of Norway’s most luxurious hotels with a 5-star experience through service and hospitality. Serving food, drinks, and meeting other needs were key responsibilities.
-                </p>
+                As a project member, I had a combined role as the Corporate Responsible and Network Evening Coordinator.                </p>
             </div>
             <div className="flex flex-col space-y-1">
                 <h1 className="text-base font-bold">
-                    Waiter | Holmen Fjordhotel 
+                    Office and Social Commitee | Abakus Studentorganization
                 </h1>
                 <div className="flex flex-row space-x-3">
                     <svg xmlns="http://www.w3.org/2000/svg" height="20px" viewBox="0 0 448 512"><path fill="#60A5FA" d="M128 0c17.7 0 32 14.3 32 32l0 32 128 0 0-32c0-17.7 14.3-32 32-32s32 14.3 32 32l0 32 48 0c26.5 0 48 21.5 48 48l0 48L0 160l0-48C0 85.5 21.5 64 48 64l48 0 0-32c0-17.7 14.3-32 32-32zM0 192l448 0 0 272c0 26.5-21.5 48-48 48L48 512c-26.5 0-48-21.5-48-48L0 192zm64 80l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0c-8.8 0-16 7.2-16 16zm128 0l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0c-8.8 0-16 7.2-16 16zm144-16c-8.8 0-16 7.2-16 16l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0zM64 400l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0c-8.8 0-16 7.2-16 16zm144-16c-8.8 0-16 7.2-16 16l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0zm112 16l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0c-8.8 0-16 7.2-16 16z"/></svg>                    
                     <h3 className="text-blue-400">
-                        05/2019 - 08/2022
+                        08/2022 - present
                     </h3>
                 </div>
                 <p>
-                Worked as responsible for various events and functions at the hotel. Delegated tasks and maintained oversight and contact with clients. Also served and met other needs of the guests.
-                </p>
+                Involved in managing the office for the student association and organizing low-threshold events for students in Abakus.                </p>
             </div>
         </div>
     );
