@@ -20,10 +20,10 @@ function App() {
           <CardVerv />
         </div>
         <div className="flex justify-end">
-          <Card />
+          <CardTech />
         </div>
         <div className="flex justify-end">
-          <CardTech />
+          <Card />
         </div>
         
       </div>
