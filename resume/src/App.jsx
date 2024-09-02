@@ -4,6 +4,7 @@ import Footer from './components/Footer';
 import Card from './components/Card';
 import CardVerv from './components/CardVerv';
 import CardMe from './components/CardMe'
+import CardTech from './components/CardTech'
 
 function App() {
   const [count, setCount] = useState(0);
@@ -20,6 +21,9 @@ function App() {
         </div>
         <div className="flex justify-end">
           <Card />
+        </div>
+        <div className="flex justify-end">
+          <CardTech />
         </div>
         
       </div>
