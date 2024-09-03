@@ -3,7 +3,7 @@ import startbilde from "../assets/start_profilbilde.jpg"
 
 const CardMe = () => {
     return (
-        <div className="flex flex-col space-y-12 text-left p-4 rounded-md shadow-lg bg-white box-border w-full">
+        <div className="flex flex-col space-y-12 text-left p-4 rounded-md shadow-lg bg-white box-border w-full h-full">
             <div className = "space-y-2">
                 <div className="flex flex-col">
                     <img src={startbilde} style={{height: '100%', width: '100%', objectFit: 'cover',}} alt="Logo" />
